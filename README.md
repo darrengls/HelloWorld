@@ -1,7 +1,6 @@
 # HelloWorld
 ## Description
-A more sophisticated way to print 'Hello, World!'. It’s a cool first program, I suppose...
-The text changes colors upon hitting the edges and leaves a fading trail, similar to the classic DVD screensaver. This project uses the Pygame library to handle graphics and animation.
+A more sophisticated way to print 'Hello, World!'. It’s a cool first program, I suppose... The text moves slowly around the screen, changing colors upon hitting the edges at a controlled pace to reduce visual strain. It leaves a fading trail effect, reminiscent of the classic DVD screensaver. This project uses the Pygame library to handle graphics and animation, ensuring smooth movement and engaging visuals.
 
 - **Bouncing Text**: The text moves around the screen, bouncing off the edges.
 - **Dynamic Colors**: The text changes color each time it hits a wall.
